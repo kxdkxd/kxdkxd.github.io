@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# MyBlogs:
+Please Give me a Star, thanks~
+
+[BitcoinWriteWord](https://kxdkxd.github.io/BitcoinWriteWord/)
+[EthereumPrivateChain](https://kxdkxd.github.io/EthereumPrivateChain)
+[JiYuClassroom](https://kxdkxd.github.io/JiYuClassroom)
+[MoneroMining](https://kxdkxd.github.io/MoneroMining)
+[OpenVPN](https://kxdkxd.github.io/OpenVPN)
+[Tor](https://kxdkxd.github.io/Tor)
