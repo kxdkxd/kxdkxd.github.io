@@ -1,4 +1,4 @@
-# 以太坊私链搭建，使用geth：
+# 以太坊私链搭建，使用geth
 
 最新版的geth，下载地址<https://geth.ethereum.org/downloads/>
 
