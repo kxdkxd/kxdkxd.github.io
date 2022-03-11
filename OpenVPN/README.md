@@ -124,7 +124,7 @@ Modifying Server.ovpn
 "C:\Program Files (x86)\Notepad++\notepad++.exe" "C:\Program Files\OpenVPN\config\server.ovpn"
 ```
 - Replace all the text in "server.ovpn" with this config file
-```OpenVPN Config
+```
 port 1194
 proto udp
 dev tun
