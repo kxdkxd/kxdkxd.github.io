@@ -3,10 +3,10 @@
 但是要注意UDP模式下在网络复杂的环境下会丢包较多。效率比较低下。
 多种内网设备目标平台：Linux, Windows7, Windows10, Windows XP, Raspberry Pi (ARM), MIPSEL
 
-------
+----
 > 关于两种模式的区别及优劣简要对比。
 > <https://security.stackexchange.com/questions/46442/openvpn-tap-vs-tun-mode#:~:text=1%20Answer&text=TAP%20is%20basically%20at%20Ethernet,bridging%20whereas%20TUN%20is%20routing.>
-------
+----
 
 
 ## 虚拟路由模式 TUN：
