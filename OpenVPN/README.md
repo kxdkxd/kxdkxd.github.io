@@ -1,5 +1,6 @@
 # OpenVPN on LAN and WAN
 两种模式：虚拟路由模式、桥接模式
+但是要注意UDP模式下在网络复杂的环境下会丢包较多。效率比较低下。
 多种内网设备目标平台：Linux, Windows7, Windows10, Windows XP, Raspberry Pi (ARM), MIPSEL
 
 ------
